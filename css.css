@@ -1,0 +1,211 @@
+.header {
+    background-image: url("./img/bgimg.png");
+    width: 1900px;
+    height: 1080px;
+    color: #FFFFFF;
+  }
+
+.header p{
+    position: absolute;
+    width: 776px;
+    height: 116.02px;
+    left:  19px;
+    top: 184px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 165px;
+
+    text-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.latepost{
+    position: absolute;
+    margin-top: 250px;
+    width: 482px;
+    height: 137px;
+    top: 989px;
+    background-color: #539C56;
+}
+
+.latepost p{
+    margin-top: 30px;
+    text-align: center;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 93px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.card1{
+    position: absolute;
+    width: 480px;
+    height: 433px;
+    left: 91px;
+    margin-top: 300px;
+    
+
+}
+.hijau{
+    position: absolute;
+    margin-top: 15px;
+
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 24px;
+
+    color: #539C56;
+}
+.judul{
+    margin-top: 60px;
+    font-family: 'arial';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+
+color: #2C2C2C;
+}
+
+.isi{font-weight: 500;
+
+}
+.card2{
+    position: absolute;
+    width: 310px;
+    height: 203.28px;
+    left: 800px;
+    margin-top: 300px;
+    
+}
+
+.card3{
+    position: absolute;
+    width: 310px;
+    height: 158.22px;
+    left: 1371px;
+    margin-top: 300px;
+    
+}
+
+.card4{
+    position: absolute;
+    width: 310px;
+    height: 158.22px;
+    left: 800px;
+    margin-top: 700px;
+    
+}
+
+.card5{
+    position: absolute;
+    width: 310px;
+    height: 203.28px;
+    left: 1371px;
+    margin-top: 700px;
+    background-color: #2C2C2C;
+}
+
+.btnall{
+  
+
+position: absolute;
+
+left: 1600px;
+top: 2250px;
+
+}
+.aboutus{
+box-sizing: border-box;
+position: absolute;
+width: 1346px;
+height: 548.48px;
+left: 230px;
+top: 2406.1px;
+background: #ffffff;
+border: 2px solid #000000;
+}
+
+.textaboutus {
+    font-family: 'ARIAL';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+text-align: center;
+letter-spacing: -0.011em;
+
+color: #398746;
+}
+
+.textabout{
+    position: absolute;
+    width: 665px;
+    height: 293.42px;
+    left: 600px;
+    top: 73px;
+    
+}
+.btnabout{
+  
+
+    position: absolute;
+    
+    left: 1200px;
+    top: 490px;
+}
+
+.komen{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1088px;
+height: 402.45px;
+left: 716px;
+top: 3101.59px;
+background: #FBFBFB;
+border: 1px solid #398746;
+
+
+}
+.ternak{
+    position: absolute;
+width: 243px;
+height: 192.19px;
+left: 57px;
+top: 3101.54px;
+
+
+}
+
+.footer {
+
+    position: absolute;
+    width: 1900px;
+    height: 75px;
+    left: 0px;
+    top: 3732px;
+    background:     #398746;
+    font-weight: 400;
+
+}
+
+.footer p {
+    justify-content: center;
+    text-align: start;
+    margin: 10px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
